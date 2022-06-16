@@ -1,10 +1,5 @@
 # -*- coding:utf-8 -*-
-"""
 
-Author:
-    Weichen Shen,weichenswc@163.com
-
-"""
 import tensorflow as tf
 from tensorflow.python.keras.layers import Flatten
 from tensorflow.python.ops.lookup_ops import TextFileInitializer
