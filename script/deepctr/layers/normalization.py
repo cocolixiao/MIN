@@ -1,10 +1,4 @@
 # -*- coding:utf-8 -*-
-"""
-
-Author:
-    Weichen Shen,weichenswc@163.com
-
-"""
 
 from tensorflow.python.keras import backend as K
 from tensorflow.python.keras.initializers import Ones, Zeros
