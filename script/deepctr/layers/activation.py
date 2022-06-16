@@ -1,10 +1,4 @@
 # -*- coding:utf-8 -*-
-"""
-
-Author:
-    Weichen Shen,weichenswc@163.com
-
-"""
 
 import tensorflow as tf
 from tensorflow.python.keras.initializers import Zeros
